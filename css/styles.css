@@ -753,15 +753,15 @@ section {
 }
 
 .highlight:nth-child(1) {
-  border-top-color: var(--primary);
+  border-top-color: #be5c8f;
 }
 
 .highlight:nth-child(2) {
-  border-top-color: var(--secondary);
+  border-top-color: #fec78d;
 }
 
 .highlight:nth-child(3) {
-  border-top-color: #5a9cc2;
+  border-top-color: #4a8cb1;
 }
 
 .highlight:hover {
@@ -770,13 +770,13 @@ section {
 }
 
 .highlight:nth-child(1) i {
-  color: var(--primary);
+  color: #be5c8f;
 }
 
 .highlight:nth-child(2) i {
-  color: var(--secondary);
+  color: #fec78d;
 }
 
 .highlight:nth-child(3) i {
-  color: #5a9cc2;
+  color: #4a8cb1;
 }
